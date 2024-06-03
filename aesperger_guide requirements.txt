@@ -1,0 +1,13 @@
+0.파이썬 버전
+python 3.10
+
+1.필요한 package 설치
+pip install tensorflow
+pip install pillow
+pip install streamlit
+
+2.예시 파일 폴더 확인
+example/(anger, happy, panic, sadness)
+
+3.실행
+streamlit run aesperger_guide.py

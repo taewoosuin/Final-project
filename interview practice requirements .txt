@@ -1,0 +1,10 @@
+pip install opencv-python
+pip install numpy
+pip install torch
+pip install pyaudio
+pip install SpeechRecognition
+pip install pandas
+pip install transformers
+pip install tensorflow
+pip install Pillow  
+pip install wave

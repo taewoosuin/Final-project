@@ -1,0 +1,9 @@
+pip install flask
+pip install flask-cors
+pip install Pillow
+pip install torch
+pip install transformers
+pip install numpy
+pip install tensorflow==2.15.0
+pip install streamlit
+pip install opencv-python-headless
