@@ -46,6 +46,8 @@ python AsperGuide.py
 Open a web browser and go to the following address:
 http://127.0.0.1:5000/
 
+===========================================================
+
 # New step: Desktop Programs 
 ### Real-time Emotion Detection, Interview Practice Program
 Open the .ipynb file and install the necessary libraries. Make sure to use TensorFlow 2.15.0.
@@ -101,6 +103,8 @@ python AsperGuide.py
 # Step 06: 애플리케이션 접속
 웹 브라우저를 열고 아래 주소로 접속합니다:
 http://127.0.0.1:5000/
+
+===========================================================
 
 # New step: Desktop Programs 
 ### 실시간 감정 감지, 면접 연습 프로그램
