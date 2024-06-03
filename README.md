@@ -10,7 +10,11 @@ Final project 1조
 GAN 모델: gan_generator.h5
 
 개발한 서비스
+
 AsperGuide: 아스파거증후군 치료 보조 웹사이트
+
 Realtime Emotion Analysis: 실시간 감정 감지 프로그램
+
 Instory: 사진+일기 프로그램
+
 interview practice: 면접 연습 프로그램
