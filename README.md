@@ -1,4 +1,4 @@
-# [2nd Term] AI Model Developer Bootcamp WASSUP
+# [2nd] AI Model Developer Bootcamp WASSUP
 ## Final Project Team 1
 
 ### Project Files
