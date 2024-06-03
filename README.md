@@ -2,17 +2,19 @@
 ## Final Project 1조
 
 ### 프로젝트 파일
--모델
-- **메인 이미지 분류 모델 코드:** MPANET.ipynb
-- **이미지 분류 모델:** MPANET.h5
-- **텍스트 분류 모델:** model.pt
-- **GAN 모델:** gan_generator.h5
--서비스
-- **AsperGuide: 아스파거증후군 치료 보조 웹사이트
-- **Realtime Emotion Analysis: 실시간 감정 감지 프로그램
-- **Instory: 사진+일기 프로그램
-- **interview practice: 면접 연습 프로그램
-### 웹사이트 실행 방법 (AsuperGuide, Addstory)
+- 모델
+  - **메인 이미지 분류 모델 코드:** MPANET.ipynb
+  - **이미지 분류 모델:** MPANET.h5
+  - **텍스트 분류 모델:** model.pt
+  - **GAN 모델:** gan_generator.h5
+
+- 서비스
+  - **AsperGuide:** 아스파거증후군 치료 보조 웹사이트
+  - **Realtime Emotion Analysis:** 실시간 감정 감지 프로그램
+  - **Instory:** 사진+일기 프로그램
+  - **interview practice:** 면접 연습 프로그램
+
+### 웹사이트 실행 방법 (AsperGuide, Instory)
 
 # Step 01: TensorFlow Model Compatibility
 모델은 TensorFlow 2.15에서 작동합니다 (TensorFlow 2.16.0 이상에서는 실행 불가).
@@ -44,15 +46,8 @@ python AsperGuide.py
 웹 브라우저를 열고 아래 주소로 접속합니다:
 http://127.0.0.1:5000/
 
-#데스크탑 프로그램 (실시간 감정 감지, 면접 연습 프로그램)
+# 데스크탑 프로그램 (실시간 감정 감지, 면접 연습 프로그램)
 .ipynb 파일을 열고 필요한 라이브러리를 설치합니다. 이때 TensorFlow는 2.15.0 버전을 사용해야 합니다.
-필요한 라이브러리를 설치한 후 노트북을 실행합니다.
+requirements를 참고해 필요한 라이브러리를 설치한 후 노트북을 실행합니다.
 
 ======= 
-[2기] AI 모델 개발자 부트캠프 WASSUP
-Final project 1조
-
-
-개발한 서비스
-
-
