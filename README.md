@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [2기] AI 모델 개발자 부트캠프 WASSUP
 ## Final Project 1조
 
