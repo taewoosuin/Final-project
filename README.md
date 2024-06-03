@@ -10,7 +10,7 @@
 ### 웹사이트 실행 방법 (AsuperGuide, Addstory)
 
 ```bash
-# Step 01: TensorFlow Model Compatibility
+Step 01: TensorFlow Model Compatibility
 # 모델은 TensorFlow 2.15에서 작동합니다 (TensorFlow 2.16.0 이상에서는 실행 불가).
 # TensorFlow 2.15는 Python 3.12 이상 버전에서는 설치할 수 없습니다.
 # Python 3.11로 가상환경을 설정하고 TensorFlow 2.15.0을 설치합니다.
@@ -40,7 +40,7 @@ python AsperGuide.py
 # 웹 브라우저를 열고 아래 주소로 접속합니다:
 http://127.0.0.1:5000/
 
-# 데스크탑 프로그램 (실시간 감정 감지, 면접 연습 프로그램)
+데스크탑 프로그램 (실시간 감정 감지, 면접 연습 프로그램)
 # .ipynb 파일을 열고 필요한 라이브러리를 설치합니다. 이때 TensorFlow는 2.15.0 버전을 사용해야 합니다.
 # 필요한 라이브러리를 설치한 후 노트북을 실행합니다.
 =======
