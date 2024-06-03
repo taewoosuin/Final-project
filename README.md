@@ -46,6 +46,7 @@ python AsperGuide.py
 Open a web browser and go to the following address:
 http://127.0.0.1:5000/
 
+#New step
 ### Desktop Programs (Real-time Emotion Detection, Interview Practice Program)
 Open the .ipynb file and install the necessary libraries. Make sure to use TensorFlow 2.15.0.
 
@@ -101,6 +102,7 @@ python AsperGuide.py
 웹 브라우저를 열고 아래 주소로 접속합니다:
 http://127.0.0.1:5000/
 
+#New step
 ### 데스크탑 프로그램 (실시간 감정 감지, 면접 연습 프로그램)
 .ipynb 파일을 열고 필요한 라이브러리를 설치합니다. 이때 TensorFlow는 2.15.0 버전을 사용해야 합니다.
 
