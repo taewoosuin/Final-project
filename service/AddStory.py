@@ -136,7 +136,7 @@ def analyze_emotion():
 
 @app.route('/')
 def serve_index():
-    return render_template('Instory.html')
+    return render_template('AddStory.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
