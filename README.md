@@ -5,15 +5,11 @@
 - Models
   - **Main Image Classification Model Code:** MPANET.ipynb
   - **Image Classification Model:** MPANET.h5
-  - **Classifying emotions: anger, happiness, panic, sadness
-  
+  - Classifying emotions: anger, happiness, panic, sadness
   - **Text Classification Model:** model.pt
-
-  Classifying emotions: anger, happiness, panic, sadness
-
+  -Classifying emotions: anger, happiness, panic, sadness
   - **GAN Model:** gan_generator.h5
-
-  Creating image: anger, happiness, panic, sadness and combination
+ - Creating image: anger, happiness, panic, sadness and combination
 
 - Services
   - **AsperGuide:** A web assistant for Asperger's Syndrome therapy
