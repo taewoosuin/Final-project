@@ -5,7 +5,6 @@
 - Models
   - **Main Image Classification Model Code:** MPANET.ipynb
   - **Image Classification Model:** MPANET.h5
-
   Classifying emotions: anger, happiness, panic, sadness
   
   - **Text Classification Model:** model.pt
