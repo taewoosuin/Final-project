@@ -5,16 +5,11 @@
 - Models
   - **Main Image Classification Model Code:** MPANET.ipynb
   - **Image Classification Model:** MPANET.h5
-
-  Classifying emotions: anger, happiness, panic, sadness
-  
+  - Classifying emotions: anger, happiness, panic, sadness
   - **Text Classification Model:** model.pt
-
-  Classifying emotions: anger, happiness, panic, sadness
-
+  - Classifying emotions: anger, happiness, panic, sadness
   - **GAN Model:** gan_generator.h5
-
-  Creating image: anger, happiness, panic, sadness and combination
+  - Creating image: anger, happiness, panic, sadness and combination
 
 - Services
   - **AsperGuide:** A web assistant for Asperger's Syndrome therapy
@@ -72,16 +67,11 @@ Refer to the requirements.txt file to install the necessary libraries and then r
 - 모델
   - **메인 이미지 분류 모델 코드:** MPANET.ipynb
   - **이미지 분류 모델:** MPANET.h5
-
-  분류하는 감정: 화남, 행복, 공황, 슬픔
-
+  - 분류하는 감정: 화남, 행복, 공황, 슬픔
   - **텍스트 분류 모델:** model.pt
-
-  분류하는 감정: 화남, 행복, 공황, 슬픔
-
+  - 분류하는 감정: 화남, 행복, 공황, 슬픔
   - **GAN 모델:** gan_generator.h5
-
-  생성하는 이미지: 화남, 행복, 공황, 슬픔과 조합된 감정
+  - 생성하는 이미지: 화남, 행복, 공황, 슬픔과 조합된 감정
 
 - 서비스
   - **AsperGuide:** 아스파거증후군 치료 보조 웹사이트
